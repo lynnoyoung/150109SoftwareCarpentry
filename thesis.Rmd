@@ -6,7 +6,7 @@ output: html_document
 # Thesis
 
 ## Intro
-This thesis ...
+Sequence analysis is *italics*  **bold**
 
 ## Methods
 Computational ..
