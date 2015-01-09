@@ -1,6 +1,13 @@
 ---
-title: "Untitled"
+title: "Computational Approaches for Sequence Analysis"
 output: html_document
 ---
 
-This is my thesis.
+# Thesis
+
+## Intro
+This thesis ...
+
+## Methods
+Computationa ..
+
