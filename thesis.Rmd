@@ -1,5 +1,5 @@
 ---
-title: "Computational Approaches for Sequence Analysis"
+title: "Approaches for Sequence Analysis"
 output: html_document
 ---
 
@@ -9,5 +9,14 @@ output: html_document
 This thesis ...
 
 ## Methods
-Computationa ..
+Computational ..
 
+- get item 1
+- get item 2
+- get item 3
+
+1. do 1
+1. do 2
+1. do 3
+
+## Discussion
