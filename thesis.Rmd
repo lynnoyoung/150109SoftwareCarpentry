@@ -25,6 +25,8 @@ results <- c(1,2,3,4,5)
 print(results)
 ```
 
-`print ("hello")`
+```{r}
+print ("hello")
+```
 
 ## Discussion
